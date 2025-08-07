@@ -18,7 +18,6 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 
 * **Oxidize** — Python ➞ Rust transpiler to supercharge performance & safety.
 * **Drona** — LangGraph-based intelligent chatbot system with human-in-the-loop features.
-* AI Agents that interact via Instagram DMs to automate bookings & FAQs.
 
 ### 🌐 Connect with Me:
 
@@ -75,6 +74,7 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 ---
 
 > "Code is temporary, but ideas that push boundaries — those last."
+
 > "Crafting Intelligence"
 
 Thanks for stopping by ❤️. Feel free to explore my repositories and connect!
