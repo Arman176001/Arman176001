@@ -2,9 +2,14 @@
 
 I'm a Computer Science student at PEC, India, passionate about **Artificial Intelligence**, **Machine Learning**, and building tools that push the boundaries of what's possible.
 
+<p align="center">
+  <img src="cool.gif" alt="Arman says hi!" href="https://armanchaudhary.site" width="500" />
+</p>
+
+
 ### 🌟 What I Do:
 
-* 🤖 AI/ML Developer — focused on deep learning, neural networks, and making AI practical.
+* 🤖 AI/ML Developer — focused on deep learning, neural networks and making AI practical.
 * 🌐 Web Developer — building scalable full-stack applications.
 * 🎓 Research Enthusiast — exploring neural network efficiency & theoretical AI.
 * ⚖️ Kaggle Competitor — turning data into insights (and a bit of friendly competition).
@@ -27,7 +32,6 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -51,11 +55,11 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armanchaudhary&show_icons=true&theme=radical" alt="Arman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arman176001&show_icons=true&theme=radical" alt="Arman's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanchaudhary&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arman176001&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanchaudhary&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arman176001&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ### 🚀 Goals for 2025
@@ -66,12 +70,13 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 
 ### ✨ Fun Facts
 
-* I love filmmaking, photography, and storytelling.
-* I enjoy building fast, functional prototypes over polished slides.
+* I love art, music and photography.
+* I enjoy building fast, functional prototypes.
 * Sanskrit-inspired project names are my thing ✨
 
 ---
 
 > "Code is temporary, but ideas that push boundaries — those last."
+> "Crafting Intelligence"
 
 Thanks for stopping by ❤️. Feel free to explore my repositories and connect!
