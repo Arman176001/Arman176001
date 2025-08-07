@@ -22,8 +22,8 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 
 ### 🌐 Connect with Me:
 
-* Portfolio: [armanchaudhary.dev](https://armanchaudhary.dev)
-* LinkedIn: [linkedin.com/in/armanchaudhary](https://linkedin.com/in/armanchaudhary)
+* Portfolio: [armanchaudhary.dev](https://armanchaudhary.site)
+* LinkedIn: [linkedin.com/in/arman-chaudhary](https://www.linkedin.com/in/arman-chaudhary)
 * Kaggle: [kaggle.com/armanchaudhary](https://kaggle.com/armanchaudhary)
 
 ### ⚙️ Tech Stack
@@ -56,8 +56,6 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arman176001&show_icons=true&theme=radical" alt="Arman's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arman176001&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arman176001&layout=compact&theme=radical" alt="Top Languages" />
 </div>
