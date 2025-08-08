@@ -12,7 +12,7 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 * 🤖 AI/ML Developer — focused on deep learning, neural networks and making AI practical.
 * 🌐 Web Developer — building scalable full-stack applications.
 * 🎓 Research Enthusiast — exploring neural network efficiency & theoretical AI.
-* ⚖️ Kaggle Competitor — turning data into insights (and a bit of friendly competition).
+* ⚖️ Kaggle Fellow — Currently researching CDR datasets to make an AI-powered anomaly detector to find fraud and take action.
 
 ### 🎯 Current Projects:
 
