@@ -48,16 +48,13 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
 </div>
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arman176001&show_icons=true&theme=radical" alt="Arman's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arman176001&layout=compact&theme=radical&hide=typescript" alt="Top Languages" />
-</div>
+![Arman176001's Stats](https://github-readme-stats.vercel.app/api?username=Arman176001&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Arman176001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arman176001&theme=dark&hide_border=true)
+![Arman176001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman176001&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=460)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Arman176?theme=dark&font=Oregano&border=0&height=215)
 
 ### 🚀 Goals for 2025
 
