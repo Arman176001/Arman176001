@@ -50,11 +50,13 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=armanchaudhary17)
 
 ![Arman176001's Stats](https://readme-stats-opal-nine.vercel.app/api?username=Arman176001&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <!--![Arman176001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arman176001&theme=dark&hide_border=true&card_width=350)-->
 ![Arman176001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman176001&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=300)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Arman176?theme=dark&font=Oregano&border=0&height=215)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=armanchaudhary17)](https://codeforces.com/profile/armanchaudhary17)
 
 ### 🚀 Goals for 2025
 
