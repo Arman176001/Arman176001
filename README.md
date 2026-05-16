@@ -21,7 +21,7 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 
 ### 🌐 Connect with Me:
 
-* Portfolio: [armanchaudhary.site](https://armanchaudhary.site)
+* Portfolio: [armanchaudhary.site](https://armanchaudhary.space)
 * LinkedIn: [linkedin.com/in/arman-chaudhary](https://www.linkedin.com/in/arman-chaudhary)
 * Kaggle: [kaggle.com/armanchaudhary](https://kaggle.com/armanchaudhary)
 
