@@ -1,22 +1,27 @@
 ## Hi there, I'm Arman 👋
 
-I'm a Computer Science student at PEC, India, passionate about **Artificial Intelligence**, **Machine Learning**, and building tools that push the boundaries of what's possible.
+I'm a final-year Computer Science student at **PEC, Chandigarh**, and a **Data Science Intern at Cvent**. I'm passionate about **Artificial Intelligence**, **Machine Learning**, and building the infrastructure-layer tools that other people get to build on top of.
 
 <p align="center">
-  <img src="cool.gif" alt="Arman says hi!" href="https://armanchaudhary.site" width="500" />
+  <a href="https://armanchaudhary.space">
+    <img src="cool.gif" alt="Arman says hi!" width="500" />
+  </a>
 </p>
 
 
 ### 🌟 What I Do:
 
-* 🤖 AI/ML Developer — focused on deep learning, neural networks and making AI practical.
-* 🌐 Web Developer — building scalable full-stack applications.
-* 🎓 Research Enthusiast — exploring neural network efficiency & theoretical AI.
-* ⚖️ Kaggle Fellow — Currently researching CDR datasets to make an AI-powered anomaly detector to find fraud and take action.
+* 🤖 **AI/ML Engineer** — deep learning, neural networks, and shipping practical AI tooling.
+* 💼 **Data Science @ Cvent** — ML pipelines in Databricks, cross-sell models, market clustering, and LLM-powered tooling.
+* 🌐 **Full-Stack Developer** — building scalable, end-to-end web applications.
+* 🔬 **Research** — anomaly detection on CDR datasets for telecom fraud (DoT-funded fellowship at PEC); ongoing interest in neural network efficiency & theoretical AI.
 
 ### 🎯 Current Projects:
 
-* **Oxidize** — Python ➞ Rust transpiler to supercharge performance & safety.
+* **[Oxidize](https://github.com/Arman176001)** — Python ➞ Rust transpiler powered by a multi-node LangGraph agentic pipeline (translate → syntax-check → fix → test → benchmark) for performance & safety.
+* **[evalkit-bench](https://github.com/Arman176001)** — lightweight LLM evaluation framework, shipped to PyPI with full CI and test coverage.
+* **[deepfake-detection](https://github.com/Arman176001)** — XceptionNet model (91.76% acc) deployed with FastAPI, Docker, and Prometheus/Grafana monitoring; 250+ Kaggle downloads.
+* **ChatGPT / GPT-2 from scratch** — transformers implemented from the ground up to understand the internals end to end.
 * **Drona** — LangGraph-based intelligent chatbot system with human-in-the-loop features.
 
 ### 🌐 Connect with Me:
@@ -32,11 +37,13 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/LangChain-2B2E4A?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -58,17 +65,16 @@ I'm a Computer Science student at PEC, India, passionate about **Artificial Inte
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Arman176?theme=dark&font=Oregano&border=0&height=215)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=armanchaudhary17)](https://codeforces.com/profile/armanchaudhary17)
 
-### 🚀 Goals for 2025
+### 🚀 Goals for 2026
 
-* ✅ Become interview-ready for big tech companies.
-* ✅ Dive deeper into AGI theory & LLM efficiency.
-* ✅ Build products that solve real-world problems with AI.
+* ✅ Land an AI/ML or Data Science role at a top-tier team.
+* ✅ Go deeper into LLM efficiency, agentic systems, and AGI theory.
+* ✅ Ship more open-source tools that solve real problems.
 
 ### ✨ Fun Facts
 
-* I love art, music and photography.
+* I love art, music, and photography — usually drawing late at night.
 * I enjoy building fast, functional prototypes.
-* Sanskrit-inspired project names are my thing ✨
 
 ---
 
