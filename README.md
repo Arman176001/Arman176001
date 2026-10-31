@@ -1,6 +1,6 @@
 ## Hi there, I'm Arman 👋
 
-I'm a final-year Computer Science student at **PEC, Chandigarh**, and a **Data Science Intern at Cvent**. I'm passionate about **Artificial Intelligence**, **Machine Learning**, and building the infrastructure-layer tools that other people get to build on top of.
+I'm passionate about **Artificial Intelligence**, **Machine Learning**, and building the infrastructure-layer tools that other people get to build on top of.
 
 <p align="center">
   <a href="https://armanchaudhary.space">
@@ -65,16 +65,6 @@ I'm a final-year Computer Science student at **PEC, Chandigarh**, and a **Data S
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Arman176?theme=dark&font=Oregano&border=0&height=215)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=armanchaudhary17)](https://codeforces.com/profile/armanchaudhary17)
 
-### 🚀 Goals for 2026
-
-* ✅ Land an AI/ML or Data Science role at a top-tier team.
-* ✅ Go deeper into LLM efficiency, agentic systems, and AGI theory.
-* ✅ Ship more open-source tools that solve real problems.
-
-### ✨ Fun Facts
-
-* I love art, music, and photography — usually drawing late at night.
-* I enjoy building fast, functional prototypes.
 
 ---
 
