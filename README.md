@@ -1,6 +1,6 @@
 ## Hi there, I'm Arman 👋
 
-I'm a final-year Computer Science student at **PEC, Chandigarh**, and a **Data Science Intern at Cvent**. I'm passionate about **Artificial Intelligence**, **Machine Learning**, and building the infrastructure-layer tools that other people get to build on top of.
+I'm a final-year Computer Science student and a **Data Science Intern at Cvent**. I'm passionate about **Artificial Intelligence**, **Machine Learning**, and building the infrastructure-layer tools that other people get to build on top of.
 
 <p align="center">
   <a href="https://armanchaudhary.space">
@@ -14,7 +14,7 @@ I'm a final-year Computer Science student at **PEC, Chandigarh**, and a **Data S
 * 🤖 **AI/ML Engineer** — deep learning, neural networks, and shipping practical AI tooling.
 * 💼 **Data Science @ Cvent** — ML pipelines in Databricks, cross-sell models, market clustering, and LLM-powered tooling.
 * 🌐 **Full-Stack Developer** — building scalable, end-to-end web applications.
-* 🔬 **Research** — anomaly detection on CDR datasets for telecom fraud (DoT-funded fellowship at PEC); ongoing interest in neural network efficiency & theoretical AI.
+* 🔬 **Research** — anomaly detection on CDR datasets for telecom fraud; ongoing interest in neural network efficiency & theoretical AI.
 
 ### 🎯 Current Projects:
 
@@ -27,7 +27,7 @@ I'm a final-year Computer Science student at **PEC, Chandigarh**, and a **Data S
 ### 🌐 Connect with Me:
 
 * Portfolio: [armanchaudhary.site](https://armanchaudhary.space)
-* LinkedIn: [linkedin.com/in/arman-chaudhary](https://www.linkedin.com/in/arman-chaudhary)
+* LinkedIn: [linkedin.com/in/arman-chaudhary](https://linkedin.com/in/arman-chaudhary)
 * Kaggle: [kaggle.com/armanchaudhary](https://kaggle.com/armanchaudhary)
 
 ### ⚙️ Tech Stack
